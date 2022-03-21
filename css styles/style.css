@@ -15,10 +15,11 @@ html {
   header {
     height: 100vh;
   }
+  
   .hero-content {
     width: 50%;
     text-align: center;
-    color: #000;
+    color:white;
   }
   
   p {
