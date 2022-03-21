@@ -154,3 +154,7 @@ html {
     color:white;
   }
   
+footer a:hover {
+  cursor: pointer;
+  color: red;
+}
